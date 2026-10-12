@@ -1,0 +1,5 @@
+pyTelegramBotAPI>=4.20
+aiogram>=3.13,<4
+wikipedia
+rapidfuzz
+python-dotenv
